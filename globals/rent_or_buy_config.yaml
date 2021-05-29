@@ -1,0 +1,8 @@
+initial_rent: 2000
+house_price: 1000000
+down_payment: 250000
+interest_rate: 0.035
+annual_appreciation: [0.01, 0.02]
+annual_costs: 0.005
+market_returns: [-0.02, 0.08]
+period: 30
